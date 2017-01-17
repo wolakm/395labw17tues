@@ -18,3 +18,6 @@
 ### Daniel Bodell:
     By day I am a nonchalant software developer.
     By night I serenade the moon with my saxophone.
+
+### Arun Jamal:
+    I'm a member of Squad 100.
