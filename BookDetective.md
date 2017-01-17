@@ -2,7 +2,7 @@
 ## Members
 - Henry
 - Tobias
-- Evan
+- Evan ( I like spaghetti )
 - Spencer
 
 ### Henry
