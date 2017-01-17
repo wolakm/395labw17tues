@@ -14,3 +14,6 @@
 
 ### Zach Kipp:
     I'm another member of squad 100.
+
+### Arun Jamal:
+    I'm a member of Squad 100.
